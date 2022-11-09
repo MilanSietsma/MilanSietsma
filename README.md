@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MilanSietsma
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently looking for an internship
 - 📫 How to reach me by my portfolio: https://milansietsma.eu/
 
 <!---
