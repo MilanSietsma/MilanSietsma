@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MilanSietsma
-- 👀 I’m interested in Game Development
-- 📫 How to reach me by my portfolio: https://milansietsma.eu/
+- 👀 I’m a Game Development
+- 📫 Reachable by my: https://milansietsma.eu/
 
 <!---
 MilanSietsma/MilanSietsma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
