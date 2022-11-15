@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MilanSietsma
-- 👀 I’m a Game Development
+- 👀 I’m a Game Developer
 - 📫 Reachable by my: https://milansietsma.eu/
 
 <!---
