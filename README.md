@@ -1,10 +1,13 @@
+<p align="center">
 - 👋 Hi, I’m @MilanSietsma
+  <br>
 - 👀 I’m a Game Developer
-- 📫 Reachable by my: https://milansietsma.eu/
+  <br>
+- 📫 Portfolio: https://milansietsma.eu/
+  </br>
+</p>
 
-<!---
-MilanSietsma/MilanSietsma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
 <br></br>
-![Milan Sietsma's GitHub stats](https://github-readme-stats.vercel.app/api?username=MilanSietsma&count_private=true)
+![Milan Sietsma's GitHub stats](https://github-readme-stats.vercel.app/api?username=MilanSietsma&count_private=true&show_icons=true&theme=transparent&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
