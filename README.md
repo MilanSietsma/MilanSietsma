@@ -3,7 +3,7 @@
   <br>
 - 👀 I’m a Game Developer
   <br>
-- 📫 Portfolio: https://milansietsma.eu/
+
   </br>
 </p>
 
